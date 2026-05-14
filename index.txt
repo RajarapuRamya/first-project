@@ -1,0 +1,2 @@
+Welcome to my first GitHub project.
+This project is created for learning Git and GitHub.
